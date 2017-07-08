@@ -2,6 +2,9 @@
 # Dockerfile for Oracle JDK 8 on Ubuntu 16.04
 ########################################################################
 
+# See more here:
+# https://h2o-release.s3.amazonaws.com/h2o/rel-turing/1/docs-website/h2o-docs/docker.html
+
 # pull base image
 FROM ubuntu:16.04
 
